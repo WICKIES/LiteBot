@@ -1,0 +1,11 @@
+{
+    "name": "LiteBot-Public",
+    "version": "0.1.0",
+    "author": "TAT <TAT@plugCubed.net>",
+    "dependencies": {
+        "plugapi": "2.x"
+    },
+    "engines": {
+        "node": ">=0.10"
+    }
+}
