@@ -1,5 +1,6 @@
 var plugAPI = require('plugapi');
 var Utils = require('./Utils.js');
+var util = require('util')
 var config = require('./config.json');
 var bot = new plugAPI(config.auth);
 var lastCommand = {};
