@@ -1,5 +1,5 @@
 module.exports = {
-    secondsToTime: function(seconds) {
+    secondsToTime: function(a) {
         var b = a % 60,
             c = Math.floor(a / 36E2),
             d = Math.floor(a / 864E2);
