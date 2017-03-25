@@ -1,7 +1,7 @@
 {
-    "name": "LiteBot-Public",
+    "name": "WickedBot",
     "version": "0.1.0",
-    "author": "TAT <TAT@plugCubed.net>",
+    "author": "TAT & Wickies",
     "dependencies": {
         "plugapi": "2.x"
     },
